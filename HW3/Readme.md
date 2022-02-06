@@ -11,7 +11,3 @@ Dataset : Facial Expression Recognition Challenge (Fer2013) (有經過特殊處�
 3. 執行HW3_preprocessing.py對image進行增強，最終生成'x_train_gen.csv', 'y_train_gen.csv', 'x_test.csv'三個數據集。
 4. 執行HW3_Train.py進行訓練模型，在RTX 3080 10GB的環境下，訓練約為4小時，最終生成'HW3_model.h5'的模型。
 5. 目錄內需有'HW3_model.h5'後，執行HW3_Test.py進行預測，最終生成'predict.csv'預測數據集。
-
-[data.rar and HW3_model.h5 download link]
-
-https://github.com/chieh1627/Machine-Learning---2021Fall/releases/tag/HW3
